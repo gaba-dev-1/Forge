@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👀 Game Monitor - watches game state
+# 🔮 Game Monitor - watches game state
 
 ![Status](https://img.shields.io/badge/Status-Active-00FF41?style=for-the-badge&logo=check)
 ![Performance](https://img.shields.io/badge/Performance-Optimized-32CD32?style=for-the-badge&logo=rocket)
