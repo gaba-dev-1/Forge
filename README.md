@@ -105,4 +105,6 @@ cd Heimdall
 [![dced game](https://img.shields.io/badge/🎮_dced-1E90FF?style=for-the-badge)](https://github.com/gaba-dev-1/dced)
 [![network](https://img.shields.io/badge/🏠_network-00D4FF?style=for-the-badge)](https://github.com/gaba-dev-1)
 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3268181/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6436976/
 </div>
